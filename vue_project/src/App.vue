@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>vue-spring-app</h1>
     <input @click="HelloWorld" type="button" value="HelloWorld">
   </div>
 </template>
